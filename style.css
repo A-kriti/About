@@ -39,7 +39,7 @@ font-size: 62.5%;
     position: relative;
     opacity: 0;
     visibility: hidden;
-    animation: displayCircles 1.5s;
+    animation: displayCircles 2s;
   }
   
  
